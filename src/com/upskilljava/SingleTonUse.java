@@ -9,5 +9,5 @@ public class SingleTonUse {
 		obj.demo3();
 
 	}
-
+//dasdsadsadasdasdasd
 }
